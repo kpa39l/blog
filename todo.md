@@ -7,11 +7,15 @@
 - [] Реализация поиска по сайту
 
 # Темы для последующих статей
-- Настройка плагина Markdown-writer для работы с Pelican
-- Структура каталогов и файлов репозитория для работы с Pelican
-- Переделка темы hexo-3 под Pelican https://yelog.org/
+- Настройка плагина Markdown-writer для работы с Hugo/Pelican
+- Структура каталогов и файлов репозитория для работы с Hugo/Pelican
+- Переделка темы hexo-3 под Hugo/Pelican https://yelog.org/
 - Полнотекстовый поиск по сайту https://dev.to/albogdano/implementing-full-text-search-for-your-static-site-4ool
 - Перевод https://atamby1.github.io/start-blogging-with-github-pages-and-pelican.html
+- Автоматическое генерирование блога на Github.
+
+#Проекты
+- Linux from scratch на нетбуке.
 
 Заголовок сайта - "Малая ИТ Практика"
 

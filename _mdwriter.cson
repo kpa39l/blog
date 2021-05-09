@@ -23,7 +23,7 @@ siteLocalDir: ""
 # Directory to drafts from siteLocalDir
 siteDraftsDir: "_drafts/"
 # Directory to posts from siteLocalDir
-sitePostsDir: "_posts/{year}/"
+sitePostsDir: "blog/{slug}/"
 # Directory to images from siteLocalDir
 # - E.g. to use the current filename directory, can use {directory}
 #siteImagesDir: "images/{year}/{month}/"
@@ -64,7 +64,7 @@ frontMatter: """
 Title:
 Slug:
 Summary:
-Keywords: 
+Keywords:
 Date: "{date}"
 Modified: "{date}"
 Category:

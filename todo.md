@@ -1,27 +1,30 @@
-# Список задач по реализации сайта
+# Список дел для проекта
+
+## Список задач по реализации сайта
 
 - [] Настройка Pelican через GitHub Action
-- [] Реализация pjax-навигации https://github.com/MoOx/pjax
+- [] Реализация pjax-навигации <https://github.com/MoOx/pjax>
 - [] Поиск информации по автоматическому добавлению страниц из GitHub (очень важно для новостей)
 - [] Реализация плагина библиотеки для Grav
 - [] Реализация плагина кроспостинга в VK
 - [] Реализация поиска по сайту
 
-# Темы для последующих статей
+## Темы для последующих статей
+
 - Настройка плагина Markdown-writer для работы с Hugo/Pelican
 - Настройка Pelican через GitHub Action
 - Структура каталогов и файлов репозитория для работы с Hugo/Pelican
-- Переделка темы hexo-3 под Hugo/Pelican https://yelog.org/
-- Полнотекстовый поиск по сайту https://dev.to/albogdano/implementing-full-text-search-for-your-static-site-4ool
-- Перевод https://atamby1.github.io/start-blogging-with-github-pages-and-pelican.html
+- Переделка темы hexo-3 под Hugo/Pelican <https://yelog.org/>
+- Полнотекстовый поиск по сайту <https://dev.to/albogdano/implementing-full-text-search-for-your-static-site-4ool>
+- Перевод <https://atamby1.github.io/start-blogging-with-github-pages-and-pelican.html>
 - Автоматическое генерирование блога на Github.
 
-#Проекты
+## Проекты
+
 - Linux from scratch на нетбуке.
 
+## Разделы сайта
 
-
-# Разделы сайта:
 - Документы. В котором будут различные проекты документов, описывающие все сферы
     сайта
 - Проекты. Всё что я хотел по конкретным направлениям делать. Добавить в таксономию.

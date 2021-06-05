@@ -23,7 +23,7 @@ siteLocalDir: ""
 # Directory to drafts from siteLocalDir
 siteDraftsDir: "_drafts/"
 # Directory to posts from siteLocalDir
-sitePostsDir: "blog/{slug}/"
+sitePostsDir: "content/"
 # Directory to images from siteLocalDir
 # - E.g. to use the current filename directory, can use {directory}
 #siteImagesDir: "images/{year}/{month}/"
@@ -40,9 +40,9 @@ frontMatterNameTags: "tags"
 frontMatterNameCategories: "category"
 
 # Filename format of new drafts created
-newDraftFileName: "{slug}{extension}"
+newDraftFileName: "item{extension}"
 # Filename format of new posts created
-newPostFileName: "{year}-{month}-{day}-{slug}{extension}"
+newPostFileName: "item{extension}"
 
 # Front matter add custom fields
 # - Configured as a key-value pair (fieldName: defaultValue)
